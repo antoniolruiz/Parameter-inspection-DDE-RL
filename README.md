@@ -1,8 +1,11 @@
 ### Parameter inspection for diversity-driven exploration in Reinforcement Learning.
-Final project for the course of Big Data and Machine Learning at Columbia University.
 
-Parameter inspection for diversity-driven exploration in reinforcement learning
-Tobias Braun, Gerardo Antonio Lopez Ruiz, and Carlos Omar Pardo Gomez
+- Tobias Braun
+- Gerardo Antonio Lopez Ruiz
+- Carlos Omar Pardo Gomez
+
+Final project for the course of Big Data and Machine Learning at Columbia University, Summer 2019.
+
 
 ### Overview
 
