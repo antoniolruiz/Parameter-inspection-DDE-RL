@@ -1,4 +1,4 @@
-### Parameter inspection for diversity-driven exploration in Reinforcement Learning.
+## Parameter inspection for diversity-driven exploration in RL.
 
 - Tobias Braun
 - Gerardo Antonio Lopez Ruiz
